@@ -1,0 +1,36 @@
+.add{
+    margin: 3px;
+    padding: 2px;
+    background-color: rgb(109, 85, 77);
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+.del{
+    margin: 3px;
+    padding: 2px;
+    background-color: rgb(109, 85, 77);
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+.inp{
+    margin: 3px;
+    padding: 15px;
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+}
+#ul{
+    font-size: larger;
+    margin: 3px;
+    padding: 2px;
+}
+.li{
+    margin: 3px;
+    padding: 2px;
+}
